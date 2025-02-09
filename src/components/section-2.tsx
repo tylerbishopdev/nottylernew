@@ -65,7 +65,7 @@ export function Section2() {
             <div className="flex flex-col items-center">
               <span className="flex size-24 items-center justify-center" />
               <Link href="https://0ffc1al.com/">
-                <Image src="/images/Lumon.png" alt="SaaS Dashboard" width={750} height={0} priority className="mx-auto  mb-6 flex w-1/2 justify-center opacity-80" />
+                <Image src="/images/lumoncopy.png" alt="SaaS Dashboard" width={750} height={0} priority className="mx-auto  mb-6 flex w-1/2 justify-center opacity-80" />
               </Link>
               <h2 className="my-2 mb-6 font-bold">Macrodata Refinement</h2>
               <span className="text-[12px]">Bin em to win em. In (un)0ffc1al partnership with Lumon Industries.</span>

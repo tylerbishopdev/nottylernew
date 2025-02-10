@@ -45,7 +45,7 @@ export function Section2() {
           <div className="flex flex-col items-center">
             <div className="flex flex-col items-center">
               <span className="flex size-24 items-center justify-center" />
-              <Link href="https://notauth.com">
+              <Link href="https://tylers.wtf">
                 <Image src="/images/2.png" alt="SaaS Dashboard" width={750} height={0} priority className="mx-auto  mb-6 flex w-1/2 justify-center opacity-80" />
               </Link>
               <h2 className="my-2 mb-6 font-bold">(not)&nbsp; Official</h2>
